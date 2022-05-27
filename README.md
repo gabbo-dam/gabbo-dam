@@ -1,6 +1,6 @@
 <h2> Hi, I'm Gabriel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761132bf774124223c3e8b5a02a4f0806770f381bbe9&rid=giphy.gif&ct=g" width="230">
-<p><em>Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<!-- <p><em>Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p> -->
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
 [![Linkedin: gabbo-mv](https://img.shields.io/badge/gabbomv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabbo-mv/)](https://www.linkedin.com/in/gabbo-mv/)
